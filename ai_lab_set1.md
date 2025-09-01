@@ -41,3 +41,10 @@ Using no-code AI tools, help me analyze customer feedback without programming
 ```
 I want to [describe your task or goal]. Can you give me a good prompt I can use with an AI tool to accomplish this?
 ```
+
+
+<a href="README.md">Back To README</a>
+---
+
+© <a href="https://jcbytes.com">JCBytes</a>. All rights reserved.
+
