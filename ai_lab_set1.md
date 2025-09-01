@@ -1,6 +1,6 @@
 # AI Navigator Lab - Lab Set 1
 
-Sign up for your favorite LLM tool, <a href="generative_ai_tools.md"> find a starting list here.</a>. Start exploring AI by asking questions in plain language.
+Sign up for your favorite LLM tool, <a href="genertaive_ai_tools.md"> find a starting list here.</a>. Start exploring AI by asking questions in plain language.
 
 ---
 
